@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom Added
+.idea/
+assets/
+debug.log
+geckodriver.log
