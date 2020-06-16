@@ -1,4 +1,5 @@
 # Custom Added
 .idea/
-debug.log
-geckodriver.log
+*.log
+assets/
+*.html
