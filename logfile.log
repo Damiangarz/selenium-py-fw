@@ -1,0 +1,24 @@
+2020-06-16 09:14:43,068 :INFO : test_one : Starting Test
+2020-06-16 09:14:49,848 :INFO : test_one : Prices to be compared before formatting: $10,779.12 And: $10,779.12
+2020-06-16 09:14:49,848 :INFO : test_one : Prices with chars removed: 1077912 To be compared with: 1077912
+2020-06-16 09:14:50,012 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 09:14:50,062 :INFO : test_one : Starting Test
+2020-06-16 09:14:50,062 :INFO : test_one : Starting Test
+2020-06-16 09:14:56,074 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299.99
+2020-06-16 09:14:56,074 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299.99
+2020-06-16 09:14:56,075 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 09:14:56,075 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 09:14:56,205 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 09:14:56,205 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 09:14:56,242 :INFO : test_one : Starting Test
+2020-06-16 09:14:56,242 :INFO : test_one : Starting Test
+2020-06-16 09:14:56,242 :INFO : test_one : Starting Test
+2020-06-16 09:15:02,467 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 09:15:02,467 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 09:15:02,467 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 09:15:02,467 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 09:15:02,467 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 09:15:02,467 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 09:15:02,609 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 09:15:02,609 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 09:15:02,609 :INFO : test_one : Validating Cart displays 0 items at end of test
