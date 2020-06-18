@@ -3,7 +3,6 @@
 *.log
 assets/
 *.html
-*.xlsx
 *.PNG
 *.pyc
 ExcelData.py
