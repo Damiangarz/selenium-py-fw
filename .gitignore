@@ -3,3 +3,8 @@
 *.log
 assets/
 *.html
+*.xlsx
+*.PNG
+*.pyc
+ExcelData.py
+test_data/__pycache__/

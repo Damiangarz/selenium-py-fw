@@ -22,3 +22,287 @@
 2020-06-16 09:15:02,609 :INFO : test_one : Validating Cart displays 0 items at end of test
 2020-06-16 09:15:02,609 :INFO : test_one : Validating Cart displays 0 items at end of test
 2020-06-16 09:15:02,609 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:11:58,455 :INFO : test_one : Starting Test
+2020-06-16 20:12:04,012 :INFO : test_one : Prices to be compared before formatting: $10,675.11 And: $10,675
+11
+2020-06-16 20:12:04,012 :INFO : test_one : Prices with chars removed: 1067511 To be compared with: 1067511
+2020-06-16 20:12:04,041 :INFO : test_one : Starting Test
+2020-06-16 20:12:04,041 :INFO : test_one : Starting Test
+2020-06-16 20:12:07,486 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299
+99
+2020-06-16 20:12:07,486 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299
+99
+2020-06-16 20:12:07,486 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:12:07,486 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:12:07,502 :INFO : test_one : Starting Test
+2020-06-16 20:12:07,502 :INFO : test_one : Starting Test
+2020-06-16 20:12:07,502 :INFO : test_one : Starting Test
+2020-06-16 20:12:11,136 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:12:11,136 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:12:11,136 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:12:11,136 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:12:11,136 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:12:11,136 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:12:52,100 :INFO : test_one : Starting Test
+2020-06-16 20:13:00,551 :INFO : test_one : Prices to be compared before formatting: $10,675.11 And: $10,675
+11
+2020-06-16 20:13:00,551 :INFO : test_one : Prices with chars removed: 1067511 To be compared with: 1067511
+2020-06-16 20:13:00,575 :INFO : test_one : Starting Test
+2020-06-16 20:13:00,575 :INFO : test_one : Starting Test
+2020-06-16 20:13:08,206 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299
+99
+2020-06-16 20:13:08,206 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299
+99
+2020-06-16 20:13:08,207 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:13:08,207 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:13:08,225 :INFO : test_one : Starting Test
+2020-06-16 20:13:08,225 :INFO : test_one : Starting Test
+2020-06-16 20:13:08,225 :INFO : test_one : Starting Test
+2020-06-16 20:13:16,845 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:13:16,845 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:13:16,845 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:13:16,845 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:13:16,845 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:13:16,845 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:16:46,279 :INFO : test_one : Starting Test
+2020-06-16 20:16:50,089 :INFO : test_one : Prices to be compared before formatting: $10,675.11 And: $10,675
+11
+2020-06-16 20:16:50,089 :INFO : test_one : Prices with chars removed: 1067511 To be compared with: 1067511
+2020-06-16 20:16:50,610 :INFO : test_one : Starting Test
+2020-06-16 20:16:50,610 :INFO : test_one : Starting Test
+2020-06-16 20:16:57,206 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299
+99
+2020-06-16 20:16:57,206 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299
+99
+2020-06-16 20:16:57,206 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:16:57,206 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:16:57,751 :INFO : test_one : Starting Test
+2020-06-16 20:16:57,751 :INFO : test_one : Starting Test
+2020-06-16 20:16:57,751 :INFO : test_one : Starting Test
+2020-06-16 20:17:02,325 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:17:02,325 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:17:02,325 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:17:02,325 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:17:02,325 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:17:02,325 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:17:44,109 :INFO : test_one : Starting Test
+2020-06-16 20:17:51,438 :INFO : test_one : Prices to be compared before formatting: $10,675.11 And: $10,675.11
+2020-06-16 20:17:51,439 :INFO : test_one : Prices with chars removed: 1067511 To be compared with: 1067511
+2020-06-16 20:17:51,943 :INFO : test_one : Starting Test
+2020-06-16 20:17:51,943 :INFO : test_one : Starting Test
+2020-06-16 20:17:55,645 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299.99
+2020-06-16 20:17:55,645 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299.99
+2020-06-16 20:17:55,645 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:17:55,645 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:17:56,088 :INFO : test_one : Starting Test
+2020-06-16 20:17:56,088 :INFO : test_one : Starting Test
+2020-06-16 20:17:56,088 :INFO : test_one : Starting Test
+2020-06-16 20:17:59,973 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 20:17:59,973 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 20:17:59,973 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 20:17:59,974 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:17:59,974 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:17:59,974 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:18:35,925 :INFO : test_one : Starting Test
+2020-06-16 20:18:44,569 :INFO : test_one : Prices to be compared before formatting: $10,675.11 And: $10,675
+11
+2020-06-16 20:18:44,570 :INFO : test_one : Prices with chars removed: 1067511 To be compared with: 1067511
+2020-06-16 20:18:45,283 :INFO : test_one : Starting Test
+2020-06-16 20:18:45,283 :INFO : test_one : Starting Test
+2020-06-16 20:18:51,860 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299
+99
+2020-06-16 20:18:51,860 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299
+99
+2020-06-16 20:18:51,861 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:18:51,861 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:18:52,523 :INFO : test_one : Starting Test
+2020-06-16 20:18:52,523 :INFO : test_one : Starting Test
+2020-06-16 20:18:52,523 :INFO : test_one : Starting Test
+2020-06-16 20:19:00,124 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:19:00,124 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:19:00,124 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-16 20:19:00,125 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:19:00,125 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:19:00,125 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:21:40,010 :INFO : test_one : Starting Test
+2020-06-16 20:21:44,625 :INFO : test_one : Prices to be compared before formatting: $10,675.11 And: $10,675.11
+2020-06-16 20:21:44,625 :INFO : test_one : Prices with chars removed: 1067511 To be compared with: 1067511
+2020-06-16 20:21:44,736 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:21:45,212 :INFO : test_one : Starting Test
+2020-06-16 20:21:45,212 :INFO : test_one : Starting Test
+2020-06-16 20:21:49,509 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299.99
+2020-06-16 20:21:49,509 :INFO : test_one : Prices to be compared before formatting: $10,299.99 And: $10,299.99
+2020-06-16 20:21:49,509 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:21:49,509 :INFO : test_one : Prices with chars removed: 1029999 To be compared with: 1029999
+2020-06-16 20:21:49,569 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:21:49,569 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:21:50,237 :INFO : test_one : Starting Test
+2020-06-16 20:21:50,237 :INFO : test_one : Starting Test
+2020-06-16 20:21:50,237 :INFO : test_one : Starting Test
+2020-06-16 20:21:53,944 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 20:21:53,944 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 20:21:53,944 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 20:21:53,944 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:21:53,944 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:21:53,944 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:21:54,004 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:21:54,004 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:21:54,004 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:22:20,725 :INFO : test_one : Starting Test
+2020-06-16 20:22:28,658 :INFO : test_one : Prices to be compared before formatting: $10,675.11 And: $10,675.11
+2020-06-16 20:22:28,658 :INFO : test_one : Prices with chars removed: 1067511 To be compared with: 1067511
+2020-06-16 20:22:28,811 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:22:28,846 :INFO : test_one : Starting Test
+2020-06-16 20:22:28,846 :INFO : test_one : Starting Test
+2020-06-16 20:22:40,240 :INFO : test_one : Starting Test
+2020-06-16 20:22:40,240 :INFO : test_one : Starting Test
+2020-06-16 20:22:40,240 :INFO : test_one : Starting Test
+2020-06-16 20:22:47,358 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 20:22:47,358 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 20:22:47,358 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999.00
+2020-06-16 20:22:47,358 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:22:47,358 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:22:47,358 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-16 20:22:47,484 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:22:47,484 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-16 20:22:47,484 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:47:27,121 :INFO : test_one : Starting Test
+2020-06-17 08:47:30,898 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672
+76
+2020-06-17 08:47:30,898 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-17 08:47:31,000 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:47:31,405 :INFO : test_one : Starting Test
+2020-06-17 08:47:31,405 :INFO : test_one : Starting Test
+2020-06-17 08:47:34,336 :INFO : test_one : Prices to be compared before formatting: $5,599.00 And: $5,599
+00
+2020-06-17 08:47:34,336 :INFO : test_one : Prices to be compared before formatting: $5,599.00 And: $5,599
+00
+2020-06-17 08:47:34,336 :INFO : test_one : Prices with chars removed: 559900 To be compared with: 559900
+2020-06-17 08:47:34,336 :INFO : test_one : Prices with chars removed: 559900 To be compared with: 559900
+2020-06-17 08:47:34,396 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:47:34,396 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:47:34,861 :INFO : test_one : Starting Test
+2020-06-17 08:47:34,861 :INFO : test_one : Starting Test
+2020-06-17 08:47:34,861 :INFO : test_one : Starting Test
+2020-06-17 08:47:37,506 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-17 08:47:37,506 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-17 08:47:37,506 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-17 08:47:37,506 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-17 08:47:37,506 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-17 08:47:37,506 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-17 08:47:37,566 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:47:37,566 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:47:37,566 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:49:44,648 :INFO : test_one : Starting Test
+2020-06-17 08:49:48,951 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672
+76
+2020-06-17 08:49:48,951 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-17 08:49:49,049 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:49:49,444 :INFO : test_one : Starting Test
+2020-06-17 08:49:49,444 :INFO : test_one : Starting Test
+2020-06-17 08:49:53,675 :INFO : test_one : Prices to be compared before formatting: $5,599.00 And: $5,599
+00
+2020-06-17 08:49:53,675 :INFO : test_one : Prices to be compared before formatting: $5,599.00 And: $5,599
+00
+2020-06-17 08:49:53,675 :INFO : test_one : Prices with chars removed: 559900 To be compared with: 559900
+2020-06-17 08:49:53,675 :INFO : test_one : Prices with chars removed: 559900 To be compared with: 559900
+2020-06-17 08:49:53,817 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:49:53,817 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:49:53,848 :INFO : test_one : Starting Test
+2020-06-17 08:49:53,848 :INFO : test_one : Starting Test
+2020-06-17 08:49:53,848 :INFO : test_one : Starting Test
+2020-06-17 08:49:57,790 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-17 08:49:57,790 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-17 08:49:57,790 :INFO : test_one : Prices to be compared before formatting: $8,999.00 And: $8,999
+00
+2020-06-17 08:49:57,790 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-17 08:49:57,790 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-17 08:49:57,790 :INFO : test_one : Prices with chars removed: 899900 To be compared with: 899900
+2020-06-17 08:49:57,862 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:49:57,862 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:49:57,862 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 08:52:48,843 :INFO : test_one : Starting Test
+2020-06-17 08:52:52,994 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672.76
+2020-06-17 08:52:52,994 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-17 08:52:53,084 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 09:15:44,738 :INFO : test_one : Starting Test
+2020-06-17 09:15:50,699 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672
+76
+2020-06-17 09:15:50,699 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-17 09:15:50,769 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 09:50:14,333 :INFO : test_one : Starting Test
+2020-06-17 09:50:20,787 :INFO : test_one : Prices to be compared before formatting: $7,999.00 And: $7,999
+00
+2020-06-17 09:50:20,788 :INFO : test_one : Prices with chars removed: 799900 To be compared with: 799900
+2020-06-17 09:50:20,985 :INFO : test_one : Validating Cart displays 0 items at end of test
+2020-06-17 15:57:14,871 :DEBUG : test_one : Starting Test
+2020-06-17 15:57:20,361 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672
+76
+2020-06-17 15:57:20,361 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-17 16:04:05,189 :DEBUG : test_one : Starting Test
+2020-06-17 16:04:09,131 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672.76
+2020-06-17 16:04:09,131 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-17 16:07:25,910 :DEBUG : test_one : Starting Test
+2020-06-17 16:07:32,115 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672
+76
+2020-06-17 16:07:32,115 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:32:26,815 :DEBUG : test_one : Starting Test
+2020-06-18 08:32:30,906 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672.76
+2020-06-18 08:32:30,906 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:32:31,420 :DEBUG : test_one : Completed Test
+2020-06-18 08:32:40,462 :DEBUG : test_one : Starting Test
+2020-06-18 08:32:40,462 :DEBUG : test_one : Starting Test
+2020-06-18 08:32:44,291 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672
+76
+2020-06-18 08:32:44,291 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672
+76
+2020-06-18 08:32:44,291 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:32:44,291 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:32:44,790 :DEBUG : test_one : Completed Test
+2020-06-18 08:32:44,790 :DEBUG : test_one : Completed Test
+2020-06-18 08:33:52,643 :DEBUG : test_one : Starting Test
+2020-06-18 08:33:56,207 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672.76
+2020-06-18 08:33:56,207 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:33:56,767 :DEBUG : test_one : Completed Test
+2020-06-18 08:34:05,888 :DEBUG : test_one : Starting Test
+2020-06-18 08:34:05,888 :DEBUG : test_one : Starting Test
+2020-06-18 08:34:10,015 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672.76
+2020-06-18 08:34:10,015 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672.76
+2020-06-18 08:34:10,015 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:34:10,015 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:34:10,445 :DEBUG : test_one : Completed Test
+2020-06-18 08:34:10,445 :DEBUG : test_one : Completed Test
+2020-06-18 08:35:56,870 :DEBUG : test_one : Starting Test
+2020-06-18 08:36:00,771 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672
+76
+2020-06-18 08:36:00,771 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:36:01,327 :DEBUG : test_one : Completed Test
+2020-06-18 08:36:10,350 :DEBUG : test_one : Starting Test
+2020-06-18 08:36:10,350 :DEBUG : test_one : Starting Test
+2020-06-18 08:36:17,742 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672.76
+2020-06-18 08:36:17,742 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672.76
+2020-06-18 08:36:17,742 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:36:17,742 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:36:17,890 :DEBUG : test_one : Completed Test
+2020-06-18 08:36:17,890 :DEBUG : test_one : Completed Test
+2020-06-18 08:37:47,266 :DEBUG : test_one : Starting Test
+2020-06-18 08:37:54,292 :INFO : test_one : Prices to be compared before formatting: $10,672.76 And: $10,672.76
+2020-06-18 08:37:54,292 :INFO : test_one : Prices with chars removed: 1067276 To be compared with: 1067276
+2020-06-18 08:37:54,492 :DEBUG : test_one : Completed Test
