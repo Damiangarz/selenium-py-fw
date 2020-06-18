@@ -6,7 +6,7 @@ import pytest
 @pytest.mark.usefixtures("setup")
 class BaseClass:
     def remove_char(self, line):
-        line = line.translate({ord(c): None for c in '\n$,. '})
+        line = line.translate({ord(c): None for c in '\n$, '})
         return line
 
     def get_logger(self):
