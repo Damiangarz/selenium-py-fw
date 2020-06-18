@@ -13,8 +13,8 @@ class TestSearchOneItem(BaseClass):
     def test_search_one_item(self, get_data):
         # Selenium Steps
         log = self.get_logger()
-        log.debug('Starting Test')
-        home_page = HomePage(self.driver, )
+        log.debug('Starting Test Search One Item')
+        home_page = HomePage(self.driver)
         home_page.textbox_item().send_keys(get_data['first_item'])
         results_page = home_page.click_on_search_btn_item()
         item_page = results_page.click_on_price_list_item()
@@ -31,4 +31,4 @@ class TestSearchOneItem(BaseClass):
         # Validations
         assert BaseClass.remove_dot(price_cart_page) in BaseClass.remove_dot(price_item_page)
         assert '0' == home_page.cart_icon_item().text
-        log.debug('Completed Test')
+        log.debug('Completed Test Search One Item')
