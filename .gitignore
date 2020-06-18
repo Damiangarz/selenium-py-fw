@@ -7,3 +7,7 @@ assets/
 *.pyc
 ExcelData.py
 test_data/__pycache__/
+utilities/__pycache__/
+page_objects/__pycache__/
+logfile.log
+report.html
