@@ -5,8 +5,14 @@ import pytest
 
 @pytest.mark.usefixtures("setup")
 class BaseClass:
-    def remove_char(self, line):
+    @staticmethod
+    def remove_char(line):
         line = line.translate({ord(c): None for c in '\n$, '})
+        return line
+
+    @staticmethod
+    def remove_dot(line):
+        line = line.translate({ord(c): None for c in '.'})
         return line
 
     def get_logger(self):

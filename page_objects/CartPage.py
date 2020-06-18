@@ -12,8 +12,11 @@ class CartPage:
     def get_price_cart_page(self):
         return self.driver.find_element(*CartPage.price_cart_page).text
 
+    # def delete_btn_item(self):
+    #     return self.driver.find_element(*CartPage.delete_btn)
+
     def delete_btn_item(self):
-        return self.driver.find_element(*CartPage.delete_btn)
+        return self.driver.find_elements(*CartPage.delete_btn)
 
     def get_price_subtotal(self):
         return self.driver.find_element(*CartPage.price_subtotal).text
